@@ -6,8 +6,7 @@ Global maps of monthly FAPAR time series, FAPAR long-term trend and potential FA
 **Summary**: This repository provides code used to model potential FAPAR using Ensemble Machine Learning (EML) and time series data 2000--2021.  
 
 **FAPAR gap of actual vs. potential FAPAR**
-
-
+![Average FAPAR gap 2021 actual vs. potential](img/avg_diff_act_pot_fapar_map.jpg)
 
 General steps:
 - Overlaying global training points with time series data of monthly FAPAR and biophysical covariates (climate, geology, vegetation, nightlights, cropland intensity etc.)
