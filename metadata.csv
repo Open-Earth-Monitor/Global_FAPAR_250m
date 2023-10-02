@@ -1,0 +1,25 @@
+Variable,Source,Publication/DOI,Spatial resolution
+Input layers,,,
+FAPAR (8-day intervals),GLASS FAPAR V6,"Ma et al. (2022), https://glass.umd.edu/FAPAR/MODIS/250m/ ",250 m
+DTM and derivatives,DTM Merit,https://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/,250 m
+"BIOCLIM (BIO1-7, BIO10-17) and 
+climatologies (growing season length, snow cover days)",CHELSA V2.1,https://doi.org/10.16904/envidat.332  ,1 km
+Monthly time series of min and max temperature,CHELSA V2.1,https://doi.org/10.16904/envidat.228.v2.1,1 km
+Monthly time series of accumulated precipitation,CHELSA V2.1,https://doi.org/10.16904/envidat.228.v2.1,1 km
+Annual land cover,ESA CCI-LC,https://www.esa-landcover-cci.org/,300 m
+Lithologic variables,USGS Global Ecosystem Map,https://www.geo.uni-hamburg.de/en/geologie/forschung/aquatische-geochemie/glim.html,250 m
+Landform variables,USGS Global Ecosystem Map,https://rmgsc.cr.usgs.gov/outgoing/ecosystems/Global/,250 m
+Human Footprint Index,Mu et al. (2022),https://doi.org/10.6084/m9.figshare.16571064,1 km
+Nightlights,Annual Visible Night Light (VNL) V2 (VIIRS),"Elvidge et al. (2021), Hengl (2023)",500 m
+Population count per cell,JRC Global Human Settlement Layer,https://doi.org/10.2905/2FF68A52-5B5B-4A22-8F40-C41DA8332CFE ,100 m
+Cropland intensity,Cao et al. (2021),https://doi.org/10.5281/zenodo.5759237,1 km
+Enhanced Vegetation Index,MODIS MOD13Q1,https://doi.org/10.5067/MODIS/MOD13Q1.006,250 m
+Water vapour,MODIS MCD19A2,https://doi.org/10.5281/zenodo.8226282,1 km
+Land surface temperature daytime,MODIS MOD11A2,https://doi.org/10.5067/MODIS/MOD11A2.006 ,1 km
+FAPAR reference measurements,GBOV,https://land.copernicus.eu/global/gbov/dataaccessLP/,
+Output layers,,,
+"Monthly FAPAR p05, p50, p95",,https://zenodo.org/record/8387608,250 m
+Potential FAPAR p95 value,,https://doi.org/10.5281/zenodo.8381409,250 m
+Potential FAPAR p95 model deviance,,https://doi.org/10.5281/zenodo.8381409,250 m
+FAPAR p95 trend ,,https://doi.org/10.5281/zenodo.8381409,250 m
+FAPAR p95 trend p-value,,https://doi.org/10.5281/zenodo.8381409,250 m
