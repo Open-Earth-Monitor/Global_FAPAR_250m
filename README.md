@@ -14,6 +14,9 @@ General steps:
 - Prediction of potential FAPAR by removing the impact of urbanisation and intensive agriculture
 - Calculating difference between actual and potential FAPAR per pixel
 
+Global spatial training points are available [here](https://github.com/Open-Earth-Monitor/Global_FAPAR_250m/blob/main/data/global_training_points_epsg4326.gpkg).
+Produced data is available [here](https://doi.org/10.5281/zenodo.8381409).
+
 # OEMC hackathon: Global FAPAR
 Data used for the hackathon is available at https://zenodo.org/record/8306613. 
 See https://www.kaggle.com/competitions/oemc-hackathon-global-fapar-modeling for the competition hosted in October 2023. 
