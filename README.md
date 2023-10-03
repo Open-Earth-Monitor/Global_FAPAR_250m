@@ -14,7 +14,7 @@ General steps:
 - Prediction of potential FAPAR by removing the impact of urbanisation and intensive agriculture
 - Calculating difference between actual and potential FAPAR per pixel
 
-Global spatial training points are available [here](https://github.com/Open-Earth-Monitor/Global_FAPAR_250m/blob/main/data/global_training_points_epsg4326.gpkg).
+Global spatial training points used for fitting the EML model are available [here](https://github.com/Open-Earth-Monitor/Global_FAPAR_250m/blob/main/data/global_training_points_epsg4326.gpkg).
 Produced data is available [here](https://doi.org/10.5281/zenodo.8381409).
 
 # OEMC hackathon: Global FAPAR
