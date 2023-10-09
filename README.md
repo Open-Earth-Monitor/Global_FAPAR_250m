@@ -3,6 +3,10 @@ Land potential assessment based on 2000--2021 FAPAR monthly time-series at 250 m
 
 Preliminary global maps of monthly FAPAR time series, FAPAR long-term trend and potential FAPAR predictions at 250 m spatial resolution are available at Zenodo.
 
+Please cite as:
+
+- Hackländer, J., Parente, L., Ho, Y.-F., Hengl, T., Simoes, R., Consoli, D., Şahin, M., Tian, X., Herold, M., Jung, M., Duveiller, G., Weynants, M., Wheeler, I., (2023?) **"Land potential assessment and trend-analysis using 2000–2021 FAPAR monthly time-series at 250 m spatial resolution"**, submitted to PeerJ, preprint available at: https://doi.org/10.21203/rs.3.rs-3415685/v1.
+
 **Summary**: This repository provides code used to model actual FAPAR and predict potential FAPAR using Ensemble Machine Learning (EML) and time series data 2000--2021.  
 
 **FAPAR gap of actual vs. potential FAPAR**
